@@ -106,7 +106,7 @@ This [tutorial](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/h
 
 ## Demo
 
-Click [here](https://github.com/tknoepff/haptic-breath/tree/master/videos) for video demo.
+Click [here](https://github.com/tknoepff/haptic-breath/tree/master/videos) for a video demo.
 
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-1.jpg)
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-2.jpg)
