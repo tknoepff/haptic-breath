@@ -1,10 +1,13 @@
 # Haptic Breath Guide
 
-![Img](https://github.com/tk2325/haptic-breath/blob/master/header-img-2.jpg)
-![Img](https://github.com/tk2325/haptic-breath/blob/master/header-img-1.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-7.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-8.jpg)
 <br><br>
 
-**_This is an ongoing, open-source project._**
+[CHECK OUT THIS PROJECT ON THE IDM FALL 2020 SHOWCASE SITE](http://idm.show/F2020/)
+<br><br>
+
+**_Description_**
 <br>
 
 This project was a wearable art piece designed for my undergraduate thesis at NYU. It is face masks with embedded electronics that allow you to stay connected with your friends and loved ones. Both face masks contain a breath sensor at the front and a vibrating motor that wraps around the back of each wearer’s neck. As one person breathes in and out, the haptic motor vibrates on the other person's end, and vice versa. The wearable is meant to be integrated into each wearer’s day-to-day routine. The haptic messages delivered via a BLE connection provides a sense of presence for the other person on the other side. The breathing was chosen as to make the experience of embodiment more intimate and less of a structured interaction. Using the form of a face mask, the project is in dialogue with our current state of social distancing practice due to COVID-19, not just as an artifact but also as a product of the pandemic.
@@ -29,8 +32,8 @@ This project was a wearable art piece designed for my undergraduate thesis at NY
 
 ## Breadboard Setup
 
-![Img](https://github.com/tk2325/haptic-breath/blob/master/instruct-img/fritz.png)
-![Img](https://github.com/tk2325/haptic-breath/blob/master/instruct-img/full-assembly.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/schematic.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-10.jpg)
 
 ## Code
 
@@ -95,26 +98,26 @@ This project was a wearable art piece designed for my undergraduate thesis at NY
 This [tutorial](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html) by the Centers for Disease Control and Prevention (CDC) helps illustrate how to sew your own mask.
  
 
-![Img](https://github.com/tk2325/haptic-breath/blob/master/instruct-img/sketch.png)
-![Img](https://github.com/tk2325/haptic-breath/blob/master/instruct-img/materials.png)
-![Img](https://github.com/tk2325/haptic-breath/blob/master/instruct-img/final-assembly.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/sketch.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/materials.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-9.jpg)
 
 
 
 ## Demo
 
-- [Video demo](https://youtu.be/656ncj0uiaQ)
-- [Image series](https://github.com/tk2325/haptic-breath/tree/master/image-series)
+Click [here](https://github.com/tknoepff/haptic-breath/tree/master/videos) for video demo
 
-![Img](https://github.com/tk2325/haptic-breath/blob/master/image-series/IMG_3161.JPG)
-![Img](https://github.com/tk2325/haptic-breath/blob/master/image-series/IMG_3169.JPG)
-![Img](https://github.com/tk2325/haptic-breath/blob/master/image-series/IMG_3186.JPG)
-![Img](https://github.com/tk2325/haptic-breath/blob/master/image-series/IMG_3342.JPG)
-![Img](https://github.com/tk2325/haptic-breath/blob/master/image-series/IMG_3324.JPG)
-![Img](https://github.com/tk2325/haptic-breath/blob/master/image-series/IMG_3360.JPG)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-1.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-2.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-3.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-4.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-5.jpg)
+![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-6.jpg)
+
 
 ## Credits
-- **Creator:** Thomas Knoepffler <br>
-- **Advisor:** Scott Fitzgerald <br>
-- **Program:** Integrated Digital Media, NYU <br>
-- **Semester:** Fall 2020
+**Creator** • Thomas Knoepffler <br>
+**Advisor** • Scott Fitzgerald <br>
+**Program** • Integrated Digital Media, NYU <br>
+**Semester** • Fall 2020
