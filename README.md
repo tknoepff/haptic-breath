@@ -4,13 +4,14 @@
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-8.jpg)
 <br><br>
 
-[CHECK OUT THIS PROJECT ON THE IDM FALL 2020 SHOWCASE SITE](http://idm.show/F2020/)
-<br><br>
-
 **_Description_**
 <br>
 
 This project was a wearable art piece designed for my undergraduate thesis at NYU. It is face masks with embedded electronics that allow you to stay connected with your friends and loved ones. Both face masks contain a breath sensor at the front and a vibrating motor that wraps around the back of each wearer’s neck. As one person breathes in and out, the haptic motor vibrates on the other person's end, and vice versa. The wearable is meant to be integrated into each wearer’s day-to-day routine. The haptic messages delivered via a BLE connection provides a sense of presence for the other person on the other side. The breathing was chosen as to make the experience of embodiment more intimate and less of a structured interaction. Using the form of a face mask, the project is in dialogue with our current state of social distancing practice due to COVID-19, not just as an artifact but also as a product of the pandemic.
+
+<br>
+
+[Check out a Q/A for this project on the IDM Fall 2020 Showcase ](https://vimeo.com/490901214)
 
 
 ## Materials Used
