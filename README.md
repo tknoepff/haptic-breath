@@ -11,8 +11,7 @@ This project was a wearable art piece designed for my undergraduate thesis at NY
 
 <br>
 
-[Check out a Q/A for this project on the IDM Fall 2020 Showcase ](https://vimeo.com/490901214)
-
+Clcik [here](https://vimeo.com/490901214) to check out a Q&A for this project, and many others like it, on the IDM Fall 2020 Showcase.
 
 ## Materials Used
 
@@ -107,7 +106,7 @@ This [tutorial](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/h
 
 ## Demo
 
-Click [here](https://github.com/tknoepff/haptic-breath/tree/master/videos) for video demo
+Click [here](https://github.com/tknoepff/haptic-breath/tree/master/videos) for video demo.
 
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-1.jpg)
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-2.jpg)
