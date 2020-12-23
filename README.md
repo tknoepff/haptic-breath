@@ -1,4 +1,4 @@
-# Haptic Breath Guide
+cd # Haptic Breath Guide
 
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-7.jpg)
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-8.jpg)
@@ -11,7 +11,7 @@ This project was a wearable art piece designed for my undergraduate thesis at NY
 
 <br>
 
-Clcik [here](https://vimeo.com/490901214) to check out a Q&A for this project, and many others like it, on the IDM Fall 2020 Showcase.
+Click [here](https://vimeo.com/490901214) to check out a Q&A for this project, and many others like it, on the IDM Fall 2020 Showcase.
 
 ## Materials Used
 
