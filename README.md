@@ -1,4 +1,4 @@
-cd # Haptic Breath Guide
+# Haptic Breath
 
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-7.jpg)
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-8.jpg)
@@ -35,7 +35,7 @@ Click [here](https://vimeo.com/490901214) to check out a Q&A for this project, a
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/schematic.jpg)
 ![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-10.jpg)
 
-## Code
+## Code Snippets
 
 **_Arduino libraries used_**
 - [ArduinoBLE](https://www.arduino.cc/en/Reference/ArduinoBLE)
@@ -92,7 +92,7 @@ Click [here](https://vimeo.com/490901214) to check out a Q&A for this project, a
 ```
 
 
-## Mask Assembly
+## Assembly
 
 
 This [tutorial](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html) by the Centers for Disease Control and Prevention (CDC) helps illustrate how to sew your own mask.
