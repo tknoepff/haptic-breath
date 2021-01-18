@@ -1,7 +1,7 @@
 # Haptic Breath
 
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-7.jpg)
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-8.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-7.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-8.jpg)
 <br><br>
 
 **_Description_**
@@ -32,8 +32,8 @@ Click [here](https://vimeo.com/490901214) to check out a Q&A for this project, a
 
 ## Breadboard Setup
 
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/schematic.jpg)
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-10.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/schematic.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-10.jpg)
 
 ## Code Snippets
 
@@ -98,22 +98,22 @@ Click [here](https://vimeo.com/490901214) to check out a Q&A for this project, a
 This [tutorial](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html) by the Centers for Disease Control and Prevention (CDC) helps illustrate how to sew your own mask.
  
 
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/sketch.jpg)
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/materials.jpg)
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-9.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/sketch.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/materials.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-9.jpg)
 
 
 
 ## Demo
 
-Click [here](https://github.com/tknoepff/haptic-breath/tree/master/videos) for a video demo.
+Click [here](https://github.com/synhaptic/haptic-breath/tree/master/videos) for a video demo.
 
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-1.jpg)
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-2.jpg)
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-3.jpg)
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-4.jpg)
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-5.jpg)
-![Img](https://github.com/tknoepff/haptic-breath/blob/master/images/image-6.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-1.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-2.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-3.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-4.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-5.jpg)
+![Img](https://github.com/synhaptic/haptic-breath/blob/master/images/image-6.jpg)
 
 
 ## Credits
